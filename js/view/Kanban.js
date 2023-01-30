@@ -17,7 +17,7 @@ export default class Kanban {
         return [
             {
                 id: 1,
-                title: "Not started",
+                title: "Start",
             },
             {
                 id: 2,
